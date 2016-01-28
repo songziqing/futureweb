@@ -78,7 +78,7 @@
 <!--banner end here-->
 
 <!--info-grid start here-->
-<div class="info-grid wow bounce" data-wow-delay="0.1s">
+<div class="info-grid wow bounce" data-wow-delay="0.1s" style="margin-top:-6px;">
 	<div class="container">
 		<div class="info-grid-main">
 			<div class="col-md-4 info-grids-cr wow bounceIn" data-wow-delay="0.4s">
