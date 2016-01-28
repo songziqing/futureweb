@@ -49,9 +49,14 @@
 				<ul class="res">
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/index">首页</a></li>
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/about">关于</a></li>
+<<<<<<< HEAD
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">服务</a></li>
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/solution">方案</a></li>
 					<li><a class="ser active" href="/futureweb/FutureGroup/index.php/Home/Index/Project">项目</a></li>
+=======
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">展示</a></li>
+					<li><a class="ser active" href="/futureweb/FutureGroup/index.php/Home/Index/Project">动态</a></li>
+>>>>>>> 3461a64572f870694ea6de794326de924f06adfe
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/contact">联系</a></li>
 				</ul>
 				 <script>
@@ -214,6 +219,7 @@
 			  </ul>
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
+<<<<<<< HEAD
 			  <h3 style="margin-left:13px;">最新评论</h3>
 			  <ul class="ftr-list">
 			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
@@ -221,6 +227,14 @@
 			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
 			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
 			  </ul>
+=======
+			  <h3>QUISQUE SOLLICIDIN ERAT</h3>
+			  <img src="/futureweb/FutureGroup/Public/images/c4.jpg" alt=""/>
+			  <p>Proin id mi et dui aliquam pretium at sit amet lorem. Vivamus odio mauris ultrices orta at congue a, consequat a diam. </p>
+			  <div class="ftr-bwn">
+			   <a href="#">READ MORE</a>
+			  </div>
+>>>>>>> 3461a64572f870694ea6de794326de924f06adfe
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
 			  <h3 style="margin-left:13px;">友情链接</h3>
