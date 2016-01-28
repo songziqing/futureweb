@@ -48,8 +48,14 @@
 				<ul class="res">
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/index">首页</a></li>
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/about">关于</a></li>
+<<<<<<< HEAD
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">展示</a></li>
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/solution">动态</a></li>
+=======
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">服务</a></li>
+					<li><a class="solu active" href="/futureweb/FutureGroup/index.php/Home/Index/solution">方案</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/Project">项目</a></li>
+>>>>>>> 6abd444dff0134844070f7bfd9fdb57602e326de
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/contact">联系</a></li>
 				</ul>
 				 <script>

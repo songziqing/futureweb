@@ -48,8 +48,18 @@
 				<ul class="res"> 
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/index">首页</a></li>
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/about">关于</a></li>
+<<<<<<< HEAD
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">服务</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/solution">方案</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/Project">项目</a></li>
+=======
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">展示</a></li>
+<<<<<<< HEAD
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/solut">动态</a></li>
+=======
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/Project">动态</a></li>
+>>>>>>> 3461a64572f870694ea6de794326de924f06adfe
+>>>>>>> 6abd444dff0134844070f7bfd9fdb57602e326de
 					<li><a class="cont active" href="/futureweb/FutureGroup/index.php/Home/Index/contact">联系</a></li>
 				</ul>
 				 <script>
@@ -102,37 +112,42 @@
 	<div class="container">
 		<div class="footer-main">
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
-			  <h3>TRISTIQUE AT DOLOR</h3>
+			  <h3 style="margin-left:13px;">最新文章</h3>
 			  <ul class="ftr-list">
-			  	<li><a href="#">Quisque consequat mattis sapien cursus </a></li>
-			  	<li><a href="#">Etiam convallis turpis sit amet turpis ho</a></li>
-			  	<li><a href="#">Duis sit amet diam eget lorem faucibus</a></li>
-			  	<li><a href="#">Maecenas sed ante sit amet leo pharetra</a></li>
-			  	<li><a href="#">Aliquam fermentum laoreet velit, eget </a></li>
-			  	<li><a href="#">Suspendisse mattis augue at ante com</a></li>
-			  	<li><a href="#">Ut porta blandit mauris quis ultrices felis</a></li>
+			  	<li><a href="#">Linux下crontab+php实现Mysql数据库定时备</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">理解钩子Hook以及在Thinkphp下利用钩子使用行为扩展</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">理解RESTful架构</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">Linux下crontab+php实现Mysql数据库定时备 </a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
 			  </ul>
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
+<<<<<<< HEAD
+			  <h3 style="margin-left:13px;">最新评论</h3>
+			  <ul class="ftr-list">
+			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  </ul>
+=======
 			  <h3>QUISQUE SOLLICIDIN ERAT</h3>
 			  <img src="/futureweb/FutureGroup/Public/images/c4.jpg" alt=""/>
 			  <p>Proin id mi et dui aliquam pretium at sit amet lorem. Vivamus odio mauris ultrices orta at congue a, consequat a diam. </p>
 			  <div class="ftr-bwn">
 			   <a href="#">READ MORE</a>
 			  </div>
+>>>>>>> 3461a64572f870694ea6de794326de924f06adfe
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
-			  <h3>INEN NISLMI EGETCOM</h3>
-			  <P>Etiam euismod orci sit amet nunc vestibulum et porttitor magna varius sit amet facilisis eros vestibulum vel.</P>
-			  <h5>EMAIL US:<br> <a href="mailto:infoexample@email.com">info@coffeeshop.com</a></h5>
-			  <h6>(000)5555 555555</h6>
-			  <h5>FOLLOW US ON:</h5>
-			  <ul class="img-sprit">
-			  	<li><a class="foot" href="#"> </a></li>
-			  	<li><a class="fa" href="#"> </a></li>
-			  	<li><a class="tw" href="#"> </a></li>
-			  	<li><a class="in" href="#"> </a></li>
-			  	<li><a class="t" href="#"> </a></li>
+			  <h3 style="margin-left:13px;">友情链接</h3>
+			  <ul class="ftr-list">
+			  	<li><a href="http://www.imooc.com/">慕课网 </a></li>
+			  	<li><a href="http://www.chuanke.com/">百度传课</a></li>
+			  	<li><a href="http://www.maizitime.com/pages/ad04/index.html?bdss3=pp_hx_104154">麦子学院</a></li>
+			  	<li><a href="http://www.imooc.com/">慕课网 </a></li>
+			  	<li><a href="http://www.chuanke.com/">百度传课</a></li>
+			  	<li><a href="http://www.maizitime.com/pages/ad04/index.html?bdss3=pp_hx_104154">麦子学院</a></li>
+			  	<li><a href="http://www.imooc.com/">慕课网 </a></li>
 			  </ul>
 			</div>
 		  <div class="clearfix"> </div>
@@ -144,7 +159,7 @@
 <div class="copyright">
 	<div class="container">
 		<div class="copyright-main wow bounceInLeft" data-wow-delay="0.4s">
-			<p>Copyright &copy; 2015.Company name All rights reserved. More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a></p>
+			<p>Copyright &copy; 2016. The FutureGroup 未来工作室</p>
 		</div>
 	</div>
 </div>
