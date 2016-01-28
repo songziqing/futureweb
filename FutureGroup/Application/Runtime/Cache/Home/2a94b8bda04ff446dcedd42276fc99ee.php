@@ -78,50 +78,119 @@
 <!--banner end here-->
 
 <!--info-grid start here-->
-<div class="info-grid wow bounce" data-wow-delay="0.1s" style="margin-top:-10px">
+<div class="info-grid wow bounce" data-wow-delay="0.1s">
 	<div class="container">
 		<div class="info-grid-main">
 			<div class="col-md-4 info-grids-cr wow bounceIn" data-wow-delay="0.4s">
 				<div class="info-top">
-					<h3>LIPSUM <span class="gd-clr"> MAECAS PORTA</span> </h3>
+					<h3>
+						NBA数据分析项目
+					</h3>
 				</div>
 				<div class="info-bott">
 					<img src="/futureweb/FutureGroup/Public/images/c1.jpg" alt=""/>
-					<p>Morbi faucibus diam tortor in rhoncus loremauris quis lectus a odio unikeut sepeenenatis eros qenim ullamcper ut dapialiquet.</p>
-				    <h5>Sem commodo erat interdum pharetra aecenas porttitor auctor dapibus.</h5>
+					<p> 简介：NBA数据分析项目<br>
+						构架：前端Bootstrap与HTML5，后端PHP、JSON、Highcharts图像化框架等<br>
+						链接：https://www.baidu.com/
+					</p>
 				</div>
 				<div class="infogrid-bwn">
 					<a href="#">READ MORE</a>
 				</div>
-				<div class="gd-tl-tip"> </div>
+				
 			</div>
 			<div class="col-md-4 info-grids-cr wow bounceIn" data-wow-delay="0.4s">
 				<div class="info-top">
-					<h3>FUSCE <span class="gd-clr"> ELIT QUIS LIBERO</h3></span>
+					<h3>
+						NBA数据分析项目
+					</h3>
 				</div>
 				<div class="info-bott">
-					<img src="/futureweb/FutureGroup/Public/images/c2.jpg" alt=""/>
-				    <p>Nullam at nisl elit, ut interdum leodui libero, luctus ut dictum quis, elementum id neque. Suspendisse tempus felis cursus lectus. </p>
-			        <h5>Curabitur gravida est cursus nunc rhoncus ut interdum augue consequat.s</h5>
+					<img src="/futureweb/FutureGroup/Public/images/c1.jpg" alt=""/>
+					<p> 简介：NBA数据分析项目<br>
+						构架：前端Bootstrap与HTML5，后端PHP、JSON、Highcharts图像化框架等<br>
+						链接：
+					</p>
 				</div>
 				<div class="infogrid-bwn">
 					<a href="#">READ MORE</a>
 				</div>
-				<div class="gd-tl-tip"> </div>
+				
 			</div>
 			<div class="col-md-4 info-grids-cr wow bounceIn" data-wow-delay="0.4s">
 				<div class="info-top">
-					<h3>ETIAM <span class="gd-clr"> VULPUTATE PLACE</h3></span>
+					<h3>
+						NBA数据分析项目
+					</h3>
 				</div>
 				<div class="info-bott">
-					<img src="/futureweb/FutureGroup/Public/images/c3.jpg" alt=""/>
-					<p>Quisque consectetur turpis eget mi cursus pulvinar. Suspendisse potentiorbi in odio dolor  molestie elementum commodo lobortis.</p>
-				    <h5>In placerat nisl at magna ultricies eu feugiat ipsum gravida.</h5>
+					<img src="/futureweb/FutureGroup/Public/images/c1.jpg" alt=""/>
+					<p> 简介：NBA数据分析项目<br>
+						构架：前端Bootstrap与HTML5，后端PHP、JSON、Highcharts图像化框架等<br>
+						链接：
+					</p>
 				</div>
 				<div class="infogrid-bwn">
 					<a href="#">READ MORE</a>
 				</div>
-				<div class="gd-tl-tip"> </div>
+				
+			</div>
+		  <div class="clearfix"> </div>
+		</div>
+		<div class="info-grid-main">
+			<div class="col-md-4 info-grids-cr wow bounceIn" data-wow-delay="0.4s">
+				<div class="info-top">
+					<h3>
+						NBA数据分析项目
+					</h3>
+				</div>
+				<div class="info-bott">
+					<img src="/futureweb/FutureGroup/Public/images/c1.jpg" alt=""/>
+					<p> 简介：NBA数据分析项目<br>
+						构架：前端Bootstrap与HTML5，后端PHP、JSON、Highcharts图像化框架等<br>
+						链接：
+					</p>
+				</div>
+				<div class="infogrid-bwn">
+					<a href="#">READ MORE</a>
+				</div>
+				
+			</div>
+			<div class="col-md-4 info-grids-cr wow bounceIn" data-wow-delay="0.4s">
+				<div class="info-top">
+					<h3>
+						NBA数据分析项目
+					</h3>
+				</div>
+				<div class="info-bott">
+					<img src="/futureweb/FutureGroup/Public/images/c1.jpg" alt=""/>
+					<p> 简介：NBA数据分析项目<br>
+						构架：前端Bootstrap与HTML5，后端PHP、JSON、Highcharts图像化框架等<br>
+						链接：
+					</p>
+				</div>
+				<div class="infogrid-bwn">
+					<a href="#">READ MORE</a>
+				</div>
+				
+			</div>
+			<div class="col-md-4 info-grids-cr wow bounceIn" data-wow-delay="0.4s">
+				<div class="info-top">
+					<h3>
+						NBA数据分析项目
+					</h3>
+				</div>
+				<div class="info-bott">
+					<img src="/futureweb/FutureGroup/Public/images/c1.jpg" alt=""/>
+					<p> 简介：NBA数据分析项目<br>
+						构架：前端Bootstrap与HTML5，后端PHP、JSON、Highcharts图像化框架等<br>
+						链接：
+					</p>
+				</div>
+				<div class="infogrid-bwn">
+					<a href="#">READ MORE</a>
+				</div>
+				
 			</div>
 		  <div class="clearfix"> </div>
 		</div>
