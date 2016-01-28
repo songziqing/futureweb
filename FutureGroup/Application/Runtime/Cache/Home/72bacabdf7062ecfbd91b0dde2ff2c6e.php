@@ -2,12 +2,12 @@
 <html>
 <head>
 <title>Service</title>
-<link href="/FutureGroup/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="/futureweb/FutureGroup/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="/FutureGroup/Public/js/jquery.min.js"></script>
+<script src="/futureweb/FutureGroup/Public/js/jquery.min.js"></script>
 <!-- Custom Theme files -->
-<link href="/FutureGroup/Public/css/style.css" rel="stylesheet" type="text/css" media="all"/>
-<link href="/FutureGroup/Public/css/hover.css" rel="stylesheet" media="all">
+<link href="/futureweb/FutureGroup/Public/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="/futureweb/FutureGroup/Public/css/hover.css" rel="stylesheet" media="all">
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -17,8 +17,8 @@
 <!--Google Fonts-->
 <link href='http://fonts.useso.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
 <!-- start-smoth-scrolling -->
-<script type="text/javascript" src="/FutureGroup/Public/js/move-top.js"></script>
-<script type="text/javascript" src="/FutureGroup/Public/js/easing.js"></script>
+<script type="text/javascript" src="/futureweb/FutureGroup/Public/js/move-top.js"></script>
+<script type="text/javascript" src="/futureweb/FutureGroup/Public/js/easing.js"></script>
 	<script type="text/javascript">
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
@@ -29,8 +29,8 @@
 	</script>
 <!-- //end-smoth-scrolling -->
 <!---- animated-css ---->
-		<link href="/FutureGroup/Public/css/animate.css" rel="stylesheet" type="text/css" media="all">
-		<script src="/FutureGroup/Public/js/wow.min.js"></script>
+		<link href="/futureweb/FutureGroup/Public/css/animate.css" rel="stylesheet" type="text/css" media="all">
+		<script src="/futureweb/FutureGroup/Public/js/wow.min.js"></script>
 		<script>
 		 new WOW().init();
 		</script>
@@ -42,17 +42,16 @@
 	<div class="container head-nav-back">
 		<div class="header-main">
 			<div class="logo wow bounceIn" data-wow-delay="0.4s">
-				<a href="index.html"> <img src="/FutureGroup/Public/images/logo.png" alt=""/> </a>
+				<a href="index.html"> <img src="/futureweb/FutureGroup/Public/images/logo.png" alt=""/> </a>
 			</div>
 			<div class="navg">
-				<span class="menu"> <img src="/FutureGroup/Public/images/icon.png" alt=""/></span>
+				<span class="menu"> <img src="/futureweb/FutureGroup/Public/images/icon.png" alt=""/></span>
 				<ul class="res">
 					<li><a href="index">首页</a></li>
 					<li><a href="about">关于</a></li>
-					<li><a class="ser active" href="service">服务</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/solution">方案</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/Project">项目</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/contact">联系</a></li>
+					<li><a class="ser active" href="service">展示</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/Project">动态</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/contact">联系</a></li>
 				</ul>
 				 <script>
                               $( "span.menu").click(function() {
@@ -77,42 +76,42 @@
 			</div>
 			<div class="service-left wow bounceIn" data-wow-delay="0.4s">
 			   <div class="service-right">
-				    <img src="/FutureGroup/Public/images/s1.jpg" alt=""/>
+				    <img src="/futureweb/FutureGroup/Public/images/s1.jpg" alt=""/>
 				    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries</p>
 				    <div class="ser-bwn">
 				    	<a href="#" class="hvr-grow-shadow">Read More</a>
 				    </div>
 			   </div>
 			    <div class="service-right ser-midd wow bounceIn" data-wow-delay="0.4s">
-				    <img src="/FutureGroup/Public/images/s2.jpg" alt=""/>
+				    <img src="/futureweb/FutureGroup/Public/images/s2.jpg" alt=""/>
 				    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries</p>
 				    <div class="ser-bwn">
 				    	<a href="#" class="hvr-grow-shadow">Read More</a>
 				    </div>
 			   </div>
 			    <div class="service-right wow bounceIn" data-wow-delay="0.4s">
-				    <img src="/FutureGroup/Public/images/s3.jpg" alt=""/>
+				    <img src="/futureweb/FutureGroup/Public/images/s3.jpg" alt=""/>
 				    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
 				    <div class="ser-bwn">
 				    <a href="#" class="hvr-grow-shadow">Read More</a>
 				    </div>
 			   </div>
 				<div class="service-right wow bounceIn" data-wow-delay="0.4s">
-				    <img src="/FutureGroup/Public/images/s4.jpg" alt=""/>
+				    <img src="/futureweb/FutureGroup/Public/images/s4.jpg" alt=""/>
 				    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
 				    <div class="ser-bwn">
 				   <a href="#" class="hvr-grow-shadow">Read More</a>
 				    </div>
 			   </div>
 			   <div class="service-right ser-midd wow bounceIn" data-wow-delay="0.4s">
-				    <img src="/FutureGroup/Public/images/s6.jpg" alt=""/>
+				    <img src="/futureweb/FutureGroup/Public/images/s6.jpg" alt=""/>
 				    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
 				    <div class="ser-bwn">
 				    	<a href="#" class="hvr-grow-shadow">Read More</a>
 				    </div>
 			   </div>
 			   <div class="service-right wow bounceIn" data-wow-delay="0.4s">
-				    <img src="/FutureGroup/Public/images/s7.jpg" alt=""/>
+				    <img src="/futureweb/FutureGroup/Public/images/s7.jpg" alt=""/>
 				    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
 				    <div class="ser-bwn">
 				    <a href="#" class="hvr-grow-shadow">Read More</a>
@@ -142,7 +141,7 @@
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
 			  <h3>QUISQUE SOLLICIDIN ERAT</h3>
-			  <img src="/FutureGroup/Public/images/c4.jpg" alt=""/>
+			  <img src="/futureweb/FutureGroup/Public/images/c4.jpg" alt=""/>
 			  <p>Proin id mi et dui aliquam pretium at sit amet lorem. Vivamus odio mauris ultrices orta at congue a, consequat a diam. </p>
 			  <div class="ftr-bwn">
 			   <a href="#">READ MORE</a>
