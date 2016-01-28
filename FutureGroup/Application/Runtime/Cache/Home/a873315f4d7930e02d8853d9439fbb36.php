@@ -1,12 +1,12 @@
-<!DOCTYPE HTML>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE HTML>
 <html>
 <head>
 <title>Contact</title>
-<link href="__PUBLIC__/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="/futureweb/FutureGroup/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="__PUBLIC__/js/jquery.min.js"></script>
+<script src="/futureweb/FutureGroup/Public/js/jquery.min.js"></script>
 <!-- Custom Theme files -->
-<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="/futureweb/FutureGroup/Public/css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -16,8 +16,8 @@
 <!--Google Fonts-->
 <link href='http://fonts.useso.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
 <!-- start-smoth-scrolling -->
-<script type="text/javascript" src="__PUBLIC__/js/move-top.js"></script>
-<script type="text/javascript" src="__PUBLIC__/js/easing.js"></script>
+<script type="text/javascript" src="/futureweb/FutureGroup/Public/js/move-top.js"></script>
+<script type="text/javascript" src="/futureweb/FutureGroup/Public/js/easing.js"></script>
 	<script type="text/javascript">
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
@@ -28,8 +28,8 @@
 	</script>
 <!-- //end-smoth-scrolling -->
 <!---- animated-css ---->
-		<link href="__PUBLIC__/css/animate.css" rel="stylesheet" type="text/css" media="all">
-		<script src="__PUBLIC__/js/wow.min.js"></script>
+		<link href="/futureweb/FutureGroup/Public/css/animate.css" rel="stylesheet" type="text/css" media="all">
+		<script src="/futureweb/FutureGroup/Public/js/wow.min.js"></script>
 		<script>
 		 new WOW().init();
 		</script>
@@ -41,16 +41,16 @@
 	<div class="container head-nav-back">
 		<div class="header-main">
 			<div class="logo wow bounceIn" data-wow-delay="0.4s">
-				<a href="index.html"> <img src="__PUBLIC__/images/logo.png" alt=""/> </a>
+				<a href="index.html"> <img src="/futureweb/FutureGroup/Public/images/logo.png" alt=""/> </a>
 			</div>
 			<div class="navg">
-				<span class="menu"> <img src="__PUBLIC__/images/icon.png" alt=""/></span>
+				<span class="menu"> <img src="/futureweb/FutureGroup/Public/images/icon.png" alt=""/></span>
 				<ul class="res"> 
-					<li><a href="__URL__/index">首页</a></li>
-					<li><a href="__URL__/about">关于</a></li>
-					<li><a href="__URL__/service">展示</a></li>
-					<li><a href="__URL__/solution">动态</a></li>
-					<li><a class="cont active" href="__URL__/contact">联系</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/index">首页</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/about">关于</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">展示</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/solut">动态</a></li>
+					<li><a class="cont active" href="/futureweb/FutureGroup/index.php/Home/Index/contact">联系</a></li>
 				</ul>
 				 <script>
                               $( "span.menu").click(function() {
