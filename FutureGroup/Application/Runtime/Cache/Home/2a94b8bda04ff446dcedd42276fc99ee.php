@@ -2,12 +2,12 @@
 <html>
 <head>
 <title>主页</title>
-<link href="/FutureGroup/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="/futureweb/FutureGroup/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="/FutureGroup/Public/js/jquery.min.js"></script>
+<script src="/futureweb/FutureGroup/Public/js/jquery.min.js"></script>
 <!-- Custom Theme files -->
-<link href="/FutureGroup/Public/css/style.css" rel="stylesheet" type="text/css" media="all"/>
-<link href="/FutureGroup/Public/css/hover.css" rel="stylesheet" media="all">
+<link href="/futureweb/FutureGroup/Public/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="/futureweb/FutureGroup/Public/css/hover.css" rel="stylesheet" media="all">
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -16,8 +16,8 @@
 <!--Google Fonts-->
 <link href='http://fonts.useso.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
 <!-- start-smoth-scrolling -->
-<script type="text/javascript" src="/FutureGroup/Public/js/move-top.js"></script>
-<script type="text/javascript" src="/FutureGroup/Public/js/easing.js"></script>
+<script type="text/javascript" src="/futureweb/FutureGroup/Public/js/move-top.js"></script>
+<script type="text/javascript" src="/futureweb/FutureGroup/Public/js/easing.js"></script>
 	<script type="text/javascript">
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
@@ -28,13 +28,13 @@
 	</script>
 <!-- //end-smoth-scrolling -->
 <!---- animated-css ---->
-		<link href="/FutureGroup/Public/css/animate.css" rel="stylesheet" type="text/css" media="all">
-		<script src="/FutureGroup/Public/js/wow.min.js"></script>
+		<link href="/futureweb/FutureGroup/Public/css/animate.css" rel="stylesheet" type="text/css" media="all">
+		<script src="/futureweb/FutureGroup/Public/js/wow.min.js"></script>
 		<script>
 		 new WOW().init();
 		</script>
 <!---- animated-css ---->
-<script src="/FutureGroup/Public/js/jquery-1.11.0.min.js"></script>
+<script src="/futureweb/FutureGroup/Public/js/jquery-1.11.0.min.js"></script>
 </head>
 <body>
 <!--header start here-->
@@ -42,17 +42,17 @@
 	<div class="container head-nav-back">
 		<div class="header-main">
 			<div class="logo">
-				<a href="index.html"> <img src="/FutureGroup/Public/images/logo.png" alt=""/> </a>
+				<a href="index.html"> <img src="/futureweb/FutureGroup/Public/images/logo.png" alt=""/> </a>
 			</div>
 			<div class="navg">
-				<span class="menu"> <img src="/FutureGroup/Public/images/icon.png" alt=""/></span>
+				<span class="menu"> <img src="/futureweb/FutureGroup/Public/images/icon.png" alt=""/></span>
 				<ul class="res">
-					<li><a class="active" href="/FutureGroup/index.php/Home/Index/index">首页</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/about">关于</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/service">服务</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/solution">方案</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/Project">项目</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/contact">联系</a></li>
+					<li><a class="active" href="/futureweb/FutureGroup/index.php/Home/Index/index">首页</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/about">关于</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">服务</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/solution">方案</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/Project">项目</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/contact">联系</a></li>
 				</ul>
 				 <script>
                               $( "span.menu").click(function() {
@@ -71,7 +71,7 @@
 	<!-- 图片轮播 -->
 <div class="container-fluid">
 	<div class="row">
-		<iframe scrolling="no" frameborder="0" src="/FutureGroup/index.php/Home/Index/play" style="width:100%; height:450px">
+		<iframe scrolling="no" frameborder="0" src="/futureweb/FutureGroup/index.php/Home/Index/play" style="width:100%; height:450px">
 		</iframe>
 	</div>    
 </div>
@@ -86,7 +86,7 @@
 					<h3>LIPSUM <span class="gd-clr"> MAECAS PORTA</span> </h3>
 				</div>
 				<div class="info-bott">
-					<img src="/FutureGroup/Public/images/c1.jpg" alt=""/>
+					<img src="/futureweb/FutureGroup/Public/images/c1.jpg" alt=""/>
 					<p>Morbi faucibus diam tortor in rhoncus loremauris quis lectus a odio unikeut sepeenenatis eros qenim ullamcper ut dapialiquet.</p>
 				    <h5>Sem commodo erat interdum pharetra aecenas porttitor auctor dapibus.</h5>
 				</div>
@@ -100,7 +100,7 @@
 					<h3>FUSCE <span class="gd-clr"> ELIT QUIS LIBERO</h3></span>
 				</div>
 				<div class="info-bott">
-					<img src="/FutureGroup/Public/images/c2.jpg" alt=""/>
+					<img src="/futureweb/FutureGroup/Public/images/c2.jpg" alt=""/>
 				    <p>Nullam at nisl elit, ut interdum leodui libero, luctus ut dictum quis, elementum id neque. Suspendisse tempus felis cursus lectus. </p>
 			        <h5>Curabitur gravida est cursus nunc rhoncus ut interdum augue consequat.s</h5>
 				</div>
@@ -114,7 +114,7 @@
 					<h3>ETIAM <span class="gd-clr"> VULPUTATE PLACE</h3></span>
 				</div>
 				<div class="info-bott">
-					<img src="/FutureGroup/Public/images/c3.jpg" alt=""/>
+					<img src="/futureweb/FutureGroup/Public/images/c3.jpg" alt=""/>
 					<p>Quisque consectetur turpis eget mi cursus pulvinar. Suspendisse potentiorbi in odio dolor  molestie elementum commodo lobortis.</p>
 				    <h5>In placerat nisl at magna ultricies eu feugiat ipsum gravida.</h5>
 				</div>
@@ -199,37 +199,33 @@
 	<div class="container">
 		<div class="footer-main">
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
-			  <h3>TRISTIQUE AT DOLOR</h3>
+			  <h3 style="margin-left:13px;">最新文章</h3>
 			  <ul class="ftr-list">
-			  	<li><a href="#">Quisque consequat mattis sapien cursus </a></li>
-			  	<li><a href="#">Etiam convallis turpis sit amet turpis ho</a></li>
-			  	<li><a href="#">Duis sit amet diam eget lorem faucibus</a></li>
-			  	<li><a href="#">Maecenas sed ante sit amet leo pharetra</a></li>
-			  	<li><a href="#">Aliquam fermentum laoreet velit, eget </a></li>
-			  	<li><a href="#">Suspendisse mattis augue at ante com</a></li>
-			  	<li><a href="#">Ut porta blandit mauris quis ultrices felis</a></li>
+			  	<li><a href="#">Linux下crontab+php实现Mysql数据库定时备</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">理解钩子Hook以及在Thinkphp下利用钩子使用行为扩展</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">理解RESTful架构</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">Linux下crontab+php实现Mysql数据库定时备 </a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
 			  </ul>
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
-			  <h3>QUISQUE SOLLICIDIN ERAT</h3>
-			  <img src="/FutureGroup/Public/images/c4.jpg" alt=""/>
-			  <p>Proin id mi et dui aliquam pretium at sit amet lorem. Vivamus odio mauris ultrices orta at congue a, consequat a diam. </p>
-			  <div class="ftr-bwn">
-			<a href="#" class="hvr-pulse">Read More</a>
-			  </div>
+			  <h3 style="margin-left:13px;">最新评论</h3>
+			  <ul class="ftr-list">
+			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  	<li><a href="#">未来小组，越来越好</a><br><span style="color:#818C93;margin-left:15px;">2016-1-26</span></li>
+			  </ul>
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
-			  <h3>INEN NISLMI EGETCOM</h3>
-			  <P>Etiam euismod orci sit amet nunc vestibulum et porttitor magna varius sit amet facilisis eros vestibulum vel.</P>
-			  <h5>EMAIL US:<br> <a href="mailto:infoexample@email.com">info@coffeeshop.com</a></h5>
-			  <h6>(000)5555 555555</h6>
-			  <h5>FOLLOW US ON:</h5>
-			  <ul class="/FutureGroup/Public/img-sprit">
-			  	<li><a class="foot" href="#"> </a></li>
-			  	<li><a class="fa" href="#"> </a></li>
-			  	<li><a class="tw" href="#"> </a></li>
-			  	<li><a class="in" href="#"> </a></li>
-			  	<li><a class="t" href="#"> </a></li>
+			  <h3 style="margin-left:13px;">友情链接</h3>
+			  <ul class="ftr-list">
+			  	<li><a href="http://www.imooc.com/">慕课网 </a></li>
+			  	<li><a href="http://www.chuanke.com/">百度传课</a></li>
+			  	<li><a href="http://www.maizitime.com/pages/ad04/index.html?bdss3=pp_hx_104154">麦子学院</a></li>
+			  	<li><a href="http://www.imooc.com/">慕课网 </a></li>
+			  	<li><a href="http://www.chuanke.com/">百度传课</a></li>
+			  	<li><a href="http://www.maizitime.com/pages/ad04/index.html?bdss3=pp_hx_104154">麦子学院</a></li>
+			  	<li><a href="http://www.imooc.com/">慕课网 </a></li>
 			  </ul>
 			</div>
 		  <div class="clearfix"> </div>

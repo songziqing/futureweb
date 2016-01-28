@@ -2,11 +2,11 @@
 <html>
 <head>
 <title>About</title>
-<link href="/FutureGroup/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="/futureweb/FutureGroup/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="/FutureGroup/Public/js/jquery.min.js"></script>
+<script src="/futureweb/FutureGroup/Public/js/jquery.min.js"></script>
 <!-- Custom Theme files -->
-<link href="/FutureGroup/Public/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="/futureweb/FutureGroup/Public/css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -16,8 +16,8 @@
 <!--Google Fonts-->
 <link href='http://fonts.useso.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
 <!-- start-smoth-scrolling -->
-<script type="text/javascript" src="/FutureGroup/Public/js/move-top.js"></script>
-<script type="text/javascript" src="/FutureGroup/Public/js/easing.js"></script>
+<script type="text/javascript" src="/futureweb/FutureGroup/Public/js/move-top.js"></script>
+<script type="text/javascript" src="/futureweb/FutureGroup/Public/js/easing.js"></script>
 	<script type="text/javascript">
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
@@ -28,8 +28,8 @@
 	</script>
 <!-- //end-smoth-scrolling -->
 <!-- animated-css -->
-		<link href="/FutureGroup/Public/css/animate.css" rel="stylesheet" type="text/css" media="all">
-		<script src="/FutureGroup/Public/js/wow.min.js"></script>
+		<link href="/futureweb/FutureGroup/Public/css/animate.css" rel="stylesheet" type="text/css" media="all">
+		<script src="/futureweb/FutureGroup/Public/js/wow.min.js"></script>
 		<script>
 		 new WOW().init();
 		</script>
@@ -46,17 +46,17 @@ a:hover img{
 	<div class="container head-nav-back">
 		<div class="header-main">
 			<div class="logo wow bounceIn" data-wow-delay="0.4s">
-				<a href="index.html"> <img src="/FutureGroup/Public/images/logo.png" alt=""/> </a>
+				<a href="index.html"> <img src="/futureweb/FutureGroup/Public/images/logo.png" alt=""/> </a>
 			</div>
 			<div class="navg">
 				<span class="menu"> <img src="images/icon.png" alt=""/></span>
 				<ul class="res">
-					<li><a href="/FutureGroup/index.php/Home/Index/index">首页</a></li>
-					<li><a class="active" href="/FutureGroup/index.php/Home/Index/about">关于</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/service">服务</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/solution">方案</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/Project">项目</a></li>
-					<li><a href="/FutureGroup/index.php/Home/Index/contact">联系</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/index">首页</a></li>
+					<li><a class="active" href="/futureweb/FutureGroup/index.php/Home/Index/about">关于</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">服务</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/solution">方案</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/Project">项目</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/contact">联系</a></li>
 				</ul>
 				 <script>
                               $( "span.menu").click(function() {
@@ -77,7 +77,7 @@ a:hover img{
 		<div class="about-main">
 			<div class="col-md-4 about-left wow bounceIn" data-wow-delay="0.4s">
 				<h3>关于未来</h3>
-				<img src="/FutureGroup/Public/images/ab.jpg" alt=""/>
+				<img src="/futureweb/FutureGroup/Public/images/ab.jpg" alt=""/>
 			</div>
 			<div class="col-md-8 about-left wow bounceIn" data-wow-delay="0.4s">
 				<h3>Why choose us</h3>
@@ -100,20 +100,20 @@ a:hover img{
 		<div class="team-main" > 
 			<h3>我们的团队</h3>
 			 <div class="col-md-3 team-grids wow bounceIn " data-wow-delay="0.4s">
-			 	<a href="#"><img src="/FutureGroup/Public/images/ram.jpg" alt="" class="thumbnail" /></a>
+			 	<a href="#"><img src="/futureweb/FutureGroup/Public/images/ram.jpg" alt="" class="thumbnail" /></a>
 			 	<p style="font-size:15px; margin-top:20px">事实上，在欧盟对微软的反垄断调查中，"捆绑销售"是微软滥用市场支配地位取得垄断利益的主要表现。地位取得垄断利益的主要表现。</p>
 			 </div>
 			 <div class="col-md-3 team-grids wow bounceIn" data-wow-delay="0.4s">
 			 
-			 	<a href="#"><img src="/FutureGroup/Public/images/t1.jpg" alt=""/></a>
+			 	<a href="#"><img src="/futureweb/FutureGroup/Public/images/t1.jpg" alt=""/></a>
 			 	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 			 </div>
 			 <div class="col-md-3 team-grids wow bounceIn" data-wow-delay="0.4s">
-			 	<a href="#"><img src="/FutureGroup/Public/images/t3.jpg" alt=""/></a>
+			 	<a href="#"><img src="/futureweb/FutureGroup/Public/images/t3.jpg" alt=""/></a>
 			 	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 			 </div>
 			 <div class="col-md-3 team-grids wow bounceIn" data-wow-delay="0.4s">
-			 	<a href="#"><img src="/FutureGroup/Public/images/t2.jpg" alt=""/></a>
+			 	<a href="#"><img src="/futureweb/FutureGroup/Public/images/t2.jpg" alt=""/></a>
 			 	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 			 </div>
 		  <div class="clearfix"> </div>
@@ -139,7 +139,7 @@ a:hover img{
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
 			  <h3>QUISQUE SOLLICIDIN ERAT</h3>
-			  <img src="/FutureGroup/Public/images/c4.jpg" alt=""/>
+			  <img src="/futureweb/FutureGroup/Public/images/c4.jpg" alt=""/>
 			  <p>Proin id mi et dui aliquam pretium at sit amet lorem. Vivamus odio mauris ultrices orta at congue a, consequat a diam. </p>
 			  <div class="ftr-bwn">
 			   <a href="#">READ MORE</a>

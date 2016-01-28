@@ -237,6 +237,8 @@ span.gd-clr {
 	background:#30BEDA;
 	padding: 5px 10px;
 }
+
+
 .mov-bwn a:hover{
 	text-decoration:none;
 	background:#999;
@@ -249,6 +251,15 @@ span.gd-clr {
 	width:80%;
 	
 }
+/*.grid p a:link {color: #FF0000}
+.grid p a:link {color: #FF0000} 
+.grid p a:link {color: #FF0000} 
+.grid p a:link {color: #FF0000} */
+.grid p a:link {color: #7E7E7E;}    
+.grid p a:visited {color: #7E7E7E;text-decoration: none;}    
+.grid p a:hover {color: #7E7E7E}   
+.grid p a:active {color: #7E7E7E;text-decoration: none;}     
+
 #flexiselDemo3 {
 	display: none;
 }
@@ -339,14 +350,14 @@ span.gd-clr {
 }
 .footer-grid ul.ftr-list li {
 	margin: 0px 0px 8px 0px;
-	border-bottom: 1px solid #16191B;
+	/*border-bottom: 1px solid #16191B;*/
 	padding: 0px 0px 8px 0px;
 }
 .footer-grid ul.ftr-list li a {
 	font-size: 0.94em;
 	font-weight: 400;
 	color: #828D94;
-	background: url(../images/list.png)no-repeat 0px 7px;
+	
 	padding: 1px 0px 0px 15px;
 }
 .footer-grid ul.ftr-list li a:hover{

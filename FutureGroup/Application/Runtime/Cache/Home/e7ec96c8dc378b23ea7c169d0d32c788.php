@@ -5,16 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>index</title>
-    <link href="/FutureGroup/Public/css/bootstrap.css" rel="stylesheet">
+    <link href="/futureweb/FutureGroup/Public/css/bootstrap.css" rel="stylesheet">
 </head>
 <body>
     <!-- 图片轮播 -->
         <div data-ride="carousel" id="carousel_container" class="carousel slide image" >
             <!-- 图片容器 -->
             <div class="carousel-inner">
-                <div class="item active active" style="background-size:cover"style="width:100%; height:450px" ><img src="/FutureGroup/Public/images/1.jpg" style="width:100%; height:450px"></div>
-                <div class="item "><img src="/FutureGroup/Public/images/2.jpg" style="width:100%; height:450px"></div>
-                <div class="item"><img src="/FutureGroup/Public/images/3.jpg" style="width:100%; height:450px"></div>  
+                <div class="item active active" style="background-size:cover"style="width:100%; height:450px" ><img src="/futureweb/FutureGroup/Public/images/1.jpg" style="width:100%; height:450px"></div>
+                <div class="item "><img src="/futureweb/FutureGroup/Public/images/2.jpg" style="width:100%; height:450px"></div>
+                <div class="item"><img src="/futureweb/FutureGroup/Public/images/3.jpg" style="width:100%; height:450px"></div>  
             </div>
               <!-- 小圆圈 -->
             <ol class="carousel-indicators">
@@ -34,7 +34,7 @@
 
         
 
-    <script src="/FutureGroup/Public/js/jquery.js"></script>
-    <script src="/FutureGroup/Public/js/bootstrap.js"></script>  
+    <script src="/futureweb/FutureGroup/Public/js/jquery.js"></script>
+    <script src="/futureweb/FutureGroup/Public/js/bootstrap.js"></script>  
 </body>
 </html>
