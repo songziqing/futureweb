@@ -132,35 +132,92 @@
 
 <div class="flex-slider  wow bounceInLeft" data-wow-delay="0.4s">
 	<div class="container">
-	<ul id="flexiselDemo4">
+	<div class="col-md-6" >
+		<ul id="flexiselDemo4">
 				<li>
 				    <div class="grid">
-						<h3>NULLAM ANISL EGET</h3>
-								<div class="mov-bwn">
-									<a href="#">07-08-2014</a>
+						<h3>小组正式进入寒假学习</h3>
+								<p>寒假是我们难得的学习时间，一定要把握住，全方位提高自己. . . <a href="#" class="news-more">阅读全文</a></p>
+								<div class="mov-bwn" style="float:left;">
+									<span>24-01-2016</span>
 								</div>
-								<p>Mauris gravida libero at massa hendrerit eutincidunt massa vestibulum....</p>
+								<div class="mov-bwn">
+									<a href="#">阅读全文</a>
+								</div>
+								
 						</div>
 				</li>
 				<li>
 				    <div class="grid">
-						<h3>NULLAM ANISL EGET</h3>
-								<div class="mov-bwn">
-									<a href="#">07-08-2014</a>
+						<h3>小组正式进入寒假学习</h3>
+								<p>寒假是我们难得的学习时间，一定要把握住，全方位提高自己. . . <a href="#" class="news-more">阅读全文</a></p>
+								<div class="mov-bwn" style="float:left;">
+									<span>24-01-2016</span>
 								</div>
-								<p>Mauris gravida libero at massa hendrerit eutincidunt massa vestibulum....</p>
+								<div class="mov-bwn">
+									<a href="#">阅读全文</a>
+								</div>
+								
 						</div>
 				</li>
 				<li>
-				   <div class="grid">
-						<h3>NULLAM ANISL EGET</h3>
-								<div class="mov-bwn">
-									<a href="#">07-08-2014</a>
+				    <div class="grid">
+						<h3>小组正式进入寒假学习</h3>
+								<p>寒假是我们难得的学习时间，一定要把握住，全方位提高自己. . . <a href="#" class="news-more">阅读全文</a></p>
+								<div class="mov-bwn" style="float:left;">
+									<span>24-01-2016</span>
 								</div>
-								<p>Mauris gravida libero at massa hendrerit eutincidunt massa vestibulum....</p>
+								<div class="mov-bwn">
+									<a href="#">阅读全文</a>
+								</div>
+								
 						</div>
 				</li>
-	</ul>
+		</ul>
+	</div>
+	<div class="col-md-6" >
+		<ul id="flexiselDemo4">
+				<li>
+				    <div class="grid">
+						<h3>小组正式进入寒假学习</h3>
+								<p>寒假是我们难得的学习时间，一定要把握住，全方位提高自己. . . <a href="#" class="news-more">阅读全文</a></p>
+								<div class="mov-bwn" style="float:left;">
+									<span>24-01-2016</span>
+								</div>
+								<div class="mov-bwn">
+									<a href="#">阅读全文</a>
+								</div>
+								
+						</div>
+				</li>
+				<li>
+				    <div class="grid">
+						<h3>小组正式进入寒假学习</h3>
+								<p>寒假是我们难得的学习时间，一定要把握住，全方位提高自己. . . <a href="#" class="news-more">阅读全文</a></p>
+								<div class="mov-bwn" style="float:left;">
+									<span>24-01-2016</span>
+								</div>
+								<div class="mov-bwn">
+									<a href="#">阅读全文</a>
+								</div>
+								
+						</div>
+				</li>
+				<li>
+				    <div class="grid">
+						<h3>小组正式进入寒假学习</h3>
+								<p>寒假是我们难得的学习时间，一定要把握住，全方位提高自己. . . <a href="#" class="news-more">阅读全文</a></p>
+								<div class="mov-bwn" style="float:left;">
+									<span>24-01-2016</span>
+								</div>
+								<div class="mov-bwn">
+									<a href="#">阅读全文</a>
+								</div>
+								
+						</div>
+				</li>
+		</ul>
+	</div>
 	</div>
 	<script type="text/javascript">
 				 $(window).load(function() {
