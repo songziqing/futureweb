@@ -49,7 +49,7 @@
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/index">首页</a></li>
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/about">关于</a></li>
 					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/service">展示</a></li>
-					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/Project">动态</a></li>
+					<li><a href="/futureweb/FutureGroup/index.php/Home/Index/solut">动态</a></li>
 					<li><a class="cont active" href="/futureweb/FutureGroup/index.php/Home/Index/contact">联系</a></li>
 				</ul>
 				 <script>
