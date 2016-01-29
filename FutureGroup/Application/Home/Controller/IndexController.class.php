@@ -10,15 +10,11 @@ class IndexController extends Controller {
         $this -> display();
     }
 
-    public function service(){
+    public function introduce(){
         $this -> display();
     }
 
-    public function solution(){
-        $this -> display();
-    }
-
-    public function project(){
+    public function news(){
         $this -> display();
     }
 
